@@ -1,0 +1,10 @@
+E:\Dev\ALiMM\ALiMM\bin\Debug\ALiMM.exe.config
+E:\Dev\ALiMM\ALiMM\bin\Debug\ALiMM.exe
+E:\Dev\ALiMM\ALiMM\bin\Debug\ALiMM.pdb
+E:\Dev\ALiMM\ALiMM\obj\Debug\ALiMM.Form1.resources
+E:\Dev\ALiMM\ALiMM\obj\Debug\ALiMM.Properties.Resources.resources
+E:\Dev\ALiMM\ALiMM\obj\Debug\ALiMM.csproj.GenerateResource.Cache
+E:\Dev\ALiMM\ALiMM\obj\Debug\ALiMM.exe
+E:\Dev\ALiMM\ALiMM\obj\Debug\ALiMM.pdb
+E:\Dev\ALiMM\ALiMM\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\ALiMM\ALiMM\bin\Debug\Newtonsoft.Json.xml
