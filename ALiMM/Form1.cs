@@ -261,7 +261,7 @@ namespace ALiMM
 
         [DllImport("wininet.dll", CharSet = CharSet.Auto, SetLastError = true)]
         static extern int InternetSetCookieEx(string lpszURL, string lpszCookieName, string lpszCookieData, int dwFlags, IntPtr dwReserved);
-        
+
         private static string GetCookies(string url)
         {
             uint datasize = 256;
